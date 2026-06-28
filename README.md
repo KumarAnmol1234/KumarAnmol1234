@@ -69,6 +69,6 @@ SKILL
 - Email:alphaartist16@gmail.com
 - Email:dnrkranmol@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kumar-anmol-4b5b85302/
-
+- Instagram:instagram.com/kr.anmol12
 ⭐ Thanks for visiting my profile!
 
