@@ -11,7 +11,7 @@
 
 <td width="10%" align="center">
 
-<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 
 </td>
 
