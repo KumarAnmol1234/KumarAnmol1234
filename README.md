@@ -347,7 +347,7 @@ A production-ready Full Stack E-Commerce Platform being developed as a commercia
 ### Status
 
 ```text
-██████████░░░░░░░░░░░░
+██████████____________
 🚧 Under Active Development
 ```
 
@@ -396,12 +396,7 @@ Repository: 🔒 Private
 ---
 
 # 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KumarAnmol1234&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=KumarAnmol1234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -422,7 +417,7 @@ Repository: 🔒 Private
 
 💻 Coding        ██████████████ 100%
 
-☕ Coffee        ████████████░░ 90%
+☕ Coffee        ████████████__ 90%
 
 🎧 Music         ██████████████ 100%
 
