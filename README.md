@@ -396,10 +396,9 @@ Repository: 🔒 Private
 ---
 
 # 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=KumarAnmol1234&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KumarAnmol1234&theme=onedark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-
 # 🐍 Contribution Snake
 
 <p align="center">
