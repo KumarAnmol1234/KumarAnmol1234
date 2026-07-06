@@ -1,7 +1,7 @@
 <table>
 <tr>
 
-<td width="90%" valign="top">
+<td width="90%" valign="left">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Kumar Anmol
 
@@ -9,7 +9,7 @@
 
 </td>
 
-<td width="10%" align="center">
+<td width="10%" align="right">
 
 <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
 
