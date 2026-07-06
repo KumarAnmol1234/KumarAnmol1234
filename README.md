@@ -379,8 +379,7 @@ Repository: 🔒 Private
 # 📊 GitHub Analytics
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=KumarAnmol1234&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=KumarAnmol1234&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=KumarAnmol1234&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)![](https://streak-stats.demolab.com/?user=KumarAnmol1234&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KumarAnmol1234&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -432,11 +431,9 @@ Repository: 🔒 Private
 
 ---
 
-# 💡 Developer Quote
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 <div align="center">
 
