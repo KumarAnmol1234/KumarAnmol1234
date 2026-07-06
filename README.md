@@ -1,17 +1,26 @@
-<div align="left">
+<table>
+<tr>
+
+<td width="60%" valign="top">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Kumar Anmol
-<p align="right">
-  <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100" alt="Cyberpunk Coding Animation"/>
-</p>
-<div align="left">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+%F0%9F%8E%B8;Always+Learning+New+Things"/>
-</div>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&width=500&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+🎸;Always+Learning+New+Things"/>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Code%20By%20Logic%20Music%20By%20Heart&fontColor=00E5FF&fontSize=38&animation=fadeIn"/>
-
-
-</div>
+</p>
 
 ---
 # 💫 About Me
