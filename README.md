@@ -2,11 +2,7 @@
 
 
 <tr>
-  <td width="40%" align="center">
 
-<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
-
-</td>
 <td width="60%" valign="top">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Kumar Anmol
@@ -14,7 +10,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+%F0%9F%8E%B8;Always+Learning+New+Things"/>
 </td>
 
+  <td width="40%" align="center">
 
+<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
+
+</td>
 </tr>
 </table>
 
