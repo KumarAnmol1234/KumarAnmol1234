@@ -58,7 +58,113 @@ Dream       : Build Products Used By Millions
 ---
 
 # ⚡ Tech Stack
+# ⚡ Tech Stack
 
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+</p>
+
+---
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+</p>
+
+---
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
+</p>
+
+---
+
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</p>
+
+---
+
+### ☁️ Cloud & Hosting
+
+<p>
+
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=linode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</p>
+
+---
+
+### 🌐 Servers & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux"/>
+
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+
+</p>
+
+---
+
+### 🤖 AI • Machine Learning • Computer Vision
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+
+</p>
+
+---
+
+### 🎨 Design & Creative
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai"/>
+
+<img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Audition-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+
+</p>
+
+---
+
+### 🖥️ Hardware & Networking
+
+<p>
+
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</p>
 ### Languages
 
 <p>
