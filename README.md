@@ -185,26 +185,11 @@ Modern glassmorphism calculator built with HTML, CSS & JavaScript.
 🛠️ Tech Stack:
 `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** *(Add Link)*
+🔗 **Repository:** *(https://github.com/KumarAnmol1234/calculator)*
 
 </td>
 
-<td width="50%">
 
-### 🎬 AniTube
-A modern YouTube-inspired video streaming interface.
-
-**Highlights**
-- Responsive UI
-- Dynamic Components
-- Optimized Performance
-
-🛠️ Tech Stack:
-`HTML` `CSS` `JavaScript`
-
-🔗 **Repository:** *(Add Link)*
-
-</td>
 </tr>
 
 <tr>
@@ -228,28 +213,7 @@ Personal portfolio showcasing projects, skills and achievements.
 
 </td>
 
-<td>
 
-### 🛒 E-Commerce Platform *(In Progress)*
-
-A production-ready Full Stack shopping platform.
-
-**Planned Features**
-- Authentication
-- Admin Dashboard
-- Payments
-- Product Management
-- Order Tracking
-
-🛠️ Tech Stack:
-`React`
-`Node.js`
-`Express`
-`MongoDB`
-
-🚧 Currently Under Development
-
-</td>
 </tr>
 
 <tr>
@@ -280,7 +244,23 @@ Always building something new.
 </table>
 
 ---
+#    private Projects
+<td width="50%">
 
+### 🎬 AniTube
+A modern YouTube-inspired video streaming interface.
+
+**Highlights**
+- Responsive UI
+- Dynamic Components
+- Optimized Performance
+
+🛠️ Tech Stack:
+`HTML` `CSS` `JavaScript`
+
+🔗 **Repository:** *(Add Link)*
+
+</td>
 # 💼 Commercial Projects
 
 ## 🎓 Alpha Academy
@@ -325,7 +305,28 @@ Designed, developed and deployed a production-ready educational platform for a c
 🌐 **Live Website:** https://alphaacademy.site
 
 ---
+<td>
 
+### 🛒 E-Commerce Platform *(In Progress)*
+
+A production-ready Full Stack shopping platform.
+
+**Planned Features**
+- Authentication
+- Admin Dashboard
+- Payments
+- Product Management
+- Order Tracking
+
+🛠️ Tech Stack:
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+🚧 Currently Under Development
+
+</td>
 ## 💼 Available For
 
 ✅ Freelance Projects
