@@ -7,7 +7,9 @@
 </div>
 
 ---
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,100:00d4ff&height=300&section=header&text=Kumar%20Anmol&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Python%20Developer%20|%20Musician&descAlignY=60"/>
+</p>
 # 👋 Hi, I'm Kumar Anmol
 
 ```python
