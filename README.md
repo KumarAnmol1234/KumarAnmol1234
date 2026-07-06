@@ -49,7 +49,7 @@ Dream       : Build Products Used By Millions
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://alphaacademy.site">
+<a href="#">
 <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
