@@ -1,14 +1,13 @@
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:00c6ff&text=Kumar%20Anmol&fontColor=00E5FF&fontSize=55&animation=twinkling&fontAlignY=35"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Python+Developer;Backend+Engineer;Open+Source+Learner;Musician+%F0%9F%8E%B8;Building+Impactful+Products)](https://git.io/typing-svg)
-
-</div>
 
 ---
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,25:302b63,50:24243e,100:00d4ff&height=300&section=header&text=Kumar%20Anmol&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Python%20Developer%20|%20Musician&descAlignY=60"/>
+</p>
+<p align="center">
+
+<img width="900" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 </p>
 # 👋 Hi, I'm Kumar Anmol
 
