@@ -286,31 +286,27 @@ Modern anime streaming platform inspired by YouTube.
 
 > This project will be open-sourced after the first stable release.
 
----
-
-    
   </td>
 <td>
-  ## friday AI Assistant
-  > 🔒 Private Development Project
+## 🎬 Friday AI Assistant
 
-Modern anime streaming platform inspired by YouTube.
+> 🔒 Private Development Project
+
+Modern AI assistant inspired by tony stark.
 
 ### Current Progress
 
 - ✅ UI/UX Completed
 - ✅ Responsive Design
-- 🚧 Backend Development
-- 🚧 Authentication
-- 🚧 Video Management
-- 🚧 Database Integration
+- ✅ Backend Development
+- ✅ Database Integration
 
 🛠 **Tech Stack**
 
-`React`
-`Node.js`
-`Express`
-`MongoDB`
+`LLM`
+`APIS`
+`UI/UX`
+`python`
 
 **Repository:** 🔒 Private
 
