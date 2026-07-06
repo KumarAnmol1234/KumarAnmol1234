@@ -287,6 +287,9 @@ Modern anime streaming platform inspired by YouTube.
 > This project will be open-sourced after the first stable release.
 
   </td>
+  
+  ---
+
 <td>
 ## 🎬 Friday AI Assistant
 
