@@ -11,8 +11,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey there, I'm Kumar Anmol
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&width=500&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+🎸;Always+Learning+New+Things"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+%F0%9F%8E%B8;Always+Learning+New+Things"/>
 </td>
 
 
