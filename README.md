@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Code%20By%20Logic%20Music%20By%20Heart&fontColor=00E5FF&fontSize=38&animation=fadeIn"/>
 <p align="right">
-  <img src="https://search.brave.com/images?q=github+profile+gifs" width="50">
+  <img src="[https://search.brave.com/images?q=github+profile+gifs](https://github.com/FranciscoWan/githubProfileCustomizer)" width="50">
 </p>
 
 </div>
