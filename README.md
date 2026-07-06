@@ -1,74 +1,24 @@
-# Hi, I'm Kumar Anmol 👋
+# 💫 About Me:
+# Hi, I'm Kumar Anmol 👋<br><br>## 🚀 About Me<br>I'm a passionate Full-Stack And Python Developer from India.<br><br>- 🌱 Currently learning Full-Stack Web Development<br>- 💻 Building real-world web applications<br>- 🧠 Interested in AI, Backend Systems and Open Source<br>- 🎯 Goal: Become a Software Engineer and build impactful products<br><br>---<br><br>## 🛠 Tech Stack<br><br>Languages<br>- Python<br>- JavaScript<br><br>Frontend<br>- HTML<br>- CSS<br>- React<br><br>Backend<br>- Node.js<br>- Express.js<br><br>Database<br>- MongoDB<br>- MySQL<br><br>Tools<br>- Git<br>- GitHub<br>- VS Code<br><br>SKILL<br>- Python<br>- JavaScript<br>- HTML<br>- CSS<br>- Git<br>- GitHub<br>- React (Learning)<br>- Node.js (Learning)<br>---<br><br>## 📌 Featured Projects<br><br>- 🛒 E-commerce Platform (In Progress)<br>- Habit Tracker<br>- 🎬 AniTube<br>- 🧮 Calculator App<br>- 🌐 Portfolio Website<br><br>---<br><br>## 📈 Current Goals<br><br>- Build production-level projects<br>- Contribute to Open Source<br>- Learn System Design<br>- Master Data Structures & Algorithms<br><br>---<br><br>## 📫 Contact<br><br>- Email:alphaartist16@gmail.com<br>- Email:dnrkranmol@gmail.com<br>- LinkedIn: https://www.linkedin.com/in/kumar-anmol-4b5b85302/<br>- Instagram:instagram.com/kr.anmol12<br>⭐ Thanks for visiting my profile!<br><br>
 
-## 🚀 About Me
-I'm a passionate Full-Stack And Python Developer from India.
 
-- 🌱 Currently learning Full-Stack Web Development
-- 💻 Building real-world web applications
-- 🧠 Interested in AI, Backend Systems and Open Source
-- 🎯 Goal: Become a Software Engineer and build impactful products
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@kr.anmol12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-anmol-4b5b85302/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dnrkranmol@gmail.com ,alphaartist16@gmail.com) 
 
----
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kumarAnmol1234&theme=aura&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kumarAnmol1234&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kumarAnmol1234&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠 Tech Stack
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kumarAnmol1234&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-Languages
-- Python
-- JavaScript
-
-Frontend
-- HTML
-- CSS
-- React
-
-Backend
-- Node.js
-- Express.js
-
-Database
-- MongoDB
-- MySQL
-
-Tools
-- Git
-- GitHub
-- VS Code
-
-SKILL
-- Python
-- JavaScript
-- HTML
-- CSS
-- Git
-- GitHub
-- React (Learning)
-- Node.js (Learning)
----
-
-## 📌 Featured Projects
-
-- 🛒 E-commerce Platform (In Progress)
-- Habit Tracker
-- 🎬 AniTube
-- 🧮 Calculator App
-- 🌐 Portfolio Website
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=kumarAnmol1234&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📈 Current Goals
-
-- Build production-level projects
-- Contribute to Open Source
-- Learn System Design
-- Master Data Structures & Algorithms
-
----
-
-## 📫 Contact
-
-- Email:alphaartist16@gmail.com
-- Email:dnrkranmol@gmail.com
-- LinkedIn: https://www.linkedin.com/in/kumar-anmol-4b5b85302/
-- Instagram:instagram.com/kr.anmol12
-⭐ Thanks for visiting my profile!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
