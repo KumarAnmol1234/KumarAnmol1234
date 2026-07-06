@@ -167,53 +167,47 @@ Dream       : Build Products Used By Millions
 
 # 🚀 Projects
 
-## 🌍 Open Source Projects
+---
+
+# 🌍 Open Source Projects
+
+These projects are publicly available and open for collaboration.
 
 <table>
 <tr>
 <td width="50%">
 
-### 🧮 Calculator App
-Modern glassmorphism calculator built with HTML, CSS & JavaScript.
+### 🧮 Calculator
 
-**Highlights**
-- Responsive Design
+Modern glassmorphism calculator built using HTML, CSS & JavaScript.
+
+**Features**
+- Responsive UI
 - Keyboard Support
-- Modern UI/UX
-- Clean Code Architecture
+- Dark Theme
+- Modern Design
 
-🛠️ Tech Stack:
+🛠 **Tech**
 `HTML` `CSS` `JavaScript`
 
-🔗 **Repository:** *(https://github.com/KumarAnmol1234/calculator)*
+🔗 Repository *(Add Link)*
 
 </td>
 
-
-</tr>
-
-<tr>
-<td>
+<td width="50%">
 
 ### 🌐 Portfolio Website
 
-Personal portfolio showcasing projects, skills and achievements.
+My personal developer portfolio showcasing projects and skills.
 
-**Highlights**
-- Responsive
-- Modern Design
-- GitHub Integration
-
-🛠️ Tech Stack:
+🛠 **Tech**
 `HTML`
 `CSS`
 `JavaScript`
 
-🔗 **Repository:** *(Add Link)*
+🔗 Repository *(Add Link)*
 
 </td>
-
-
 </tr>
 
 <tr>
@@ -221,22 +215,20 @@ Personal portfolio showcasing projects, skills and achievements.
 
 ### 📈 Habit Tracker
 
-A productivity application to manage daily habits.
+Productivity application for tracking daily habits.
 
-🛠️ Tech Stack:
+🛠 **Tech**
 `JavaScript`
 `Node.js`
 `MongoDB`
 
-🔗 **Repository:** *(Add Link)*
+🔗 Repository *(Add Link)*
 
 </td>
 
 <td>
 
-### 🚀 More Projects Coming Soon...
-
-Always building something new.
+🚀 More Open Source Projects Coming Soon...
 
 </td>
 </tr>
@@ -244,28 +236,52 @@ Always building something new.
 </table>
 
 ---
-#    private Projects
-<td width="50%">
 
-### 🎬 AniTube
-A modern YouTube-inspired video streaming interface.
+# 🔒 Private Development
 
-**Highlights**
-- Responsive UI
-- Dynamic Components
-- Optimized Performance
+Projects currently under active development.
 
-🛠️ Tech Stack:
-`HTML` `CSS` `JavaScript`
+These repositories remain private until they reach production quality.
 
-🔗 **Repository:** *(Add Link)*
+---
 
-</td>
+## 🎬 AniTube
+
+> 🔒 Private Development Project
+
+Modern anime streaming platform inspired by YouTube.
+
+### Current Progress
+
+- ✅ UI/UX Completed
+- ✅ Responsive Design
+- 🚧 Backend Development
+- 🚧 Authentication
+- 🚧 Video Management
+- 🚧 Database Integration
+
+🛠 **Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+**Repository:** 🔒 Private
+
+> This project will be open-sourced after the first stable release.
+
+---
+
 # 💼 Commercial Projects
+
+Professional software developed for commercial use or private clients.
+
+---
 
 ## 🎓 Alpha Academy
 
-> **🔒 Private Client Project**
+> 🔒 Commercial Client Project
 
 Designed, developed and deployed a production-ready educational platform for a commercial client.
 
@@ -273,11 +289,10 @@ Designed, developed and deployed a production-ready educational platform for a c
 
 - 🎨 UI/UX Design
 - 💻 Full Stack Development
-- 🌐 Domain & Hosting Configuration
+- 🌐 Domain & Hosting Setup
 - ⚡ Performance Optimization
 - 📱 Responsive Design
 - 🔧 Deployment & Maintenance
-- 🔒 Secure Configuration
 
 ### Tech Stack
 
@@ -293,57 +308,73 @@ Designed, developed and deployed a production-ready educational platform for a c
 ### Status
 
 ```text
-████████████████████████████  Delivered
+██████████████████████████
+✔ Delivered Successfully
 ```
-
-### Repository
-
-🔒 **Private Repository**
-
-> The source code is intentionally private to respect client confidentiality and protect proprietary work.
 
 🌐 **Live Website:** https://alphaacademy.site
 
+🔒 Repository: Private
+
+> Source code is private to respect client confidentiality.
+
 ---
-<td>
 
-### 🛒 E-Commerce Platform *(In Progress)*
+## 🛒 E-Commerce Platform
 
-A production-ready Full Stack shopping platform.
+> 🚧 Commercial Product (In Development)
 
-**Planned Features**
-- Authentication
+A production-ready Full Stack E-Commerce Platform being developed as a commercial-grade application.
+
+### Planned Features
+
+- Secure Authentication
 - Admin Dashboard
-- Payments
 - Product Management
+- Shopping Cart
+- Payment Gateway
 - Order Tracking
+- Analytics Dashboard
+- Inventory Management
 
-🛠️ Tech Stack:
+### Tech Stack
+
 `React`
 `Node.js`
 `Express`
 `MongoDB`
 
-🚧 Currently Under Development
+### Status
 
-</td>
-## 💼 Available For
+```text
+██████████░░░░░░░░░░░░
+🚧 Under Active Development
+```
+
+Repository: 🔒 Private
+
+> The repository will remain private during development and may be partially open-sourced in the future.
+
+---
+
+# 🤝 Available For
 
 ✅ Freelance Projects
 
-✅ Open Source Collaboration
-
-✅ Hackathons
+✅ Commercial Web Development
 
 ✅ Full Stack Development
 
 ✅ Python Development
 
-✅ UI/UX Development
+✅ Open Source Collaboration
+
+✅ Hackathons
 
 ---
 
-> **Building real-world software, contributing to open source, and delivering commercial solutions.**
+> **Building production-ready software, contributing to open source, and delivering commercial solutions.**
+
 
 # 📊 GitHub Analytics
 
