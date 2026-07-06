@@ -251,7 +251,7 @@ Productivity application for tracking daily habits.
 
 ---
 
-# 🔒 Private Development
+#  🔒 Private Development
 
 Projects currently under active development.
 
