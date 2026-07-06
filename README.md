@@ -5,8 +5,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+%F0%9F%8E%B8;Always+Learning+New+Things"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Code%20By%20Logic%20Music%20By%20Heart&fontColor=00E5FF&fontSize=38&animation=fadeIn"/>
-<p align="right">
-  <img src="[https://github.com/FranciscoWan/githubProfileCustomizer](https://camo.githubusercontent.com/d8a0c41a13056e7aa9241bb34a09fa344f03461cd347b55fbb0af460c9a5fe85/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578635774786554517861577036626d39785a473976656e673364484a726457743359575a6e65575135627a42305957343361326b304e535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f6247677363356d576f727966674b427831752f67697068792e676966)" width="480">
+<p align="center">
+  <img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="900" alt="Cyberpunk Coding Animation"/>
 </p>
 
 </div>
