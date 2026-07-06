@@ -12,7 +12,7 @@
 
   <td width="40%" align="center">
 
-<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="320"/>
+<img src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="160"/>
 
 </td>
 </tr>
