@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Kumar Anmol<br><br><h3 align="center">Full-Stack Developer | Python Developer | UI/UX Enthusiast | Musician 🎸</h3><br><br><p align="center"><br>Passionate about building modern web applications, learning new technologies, and solving real-world problems through software.<br></p><br>---<br>## 🚀 About Me<br><br>- 🌱 Currently learning **React, Node.js, Express.js & MongoDB**<br>- 💻 Building real-world Full-Stack applications<br>- 🐍 Python Developer<br>- 🤝 Interested in Open Source<br>- 🎯 Goal: Become a Software Engineer and build impactful products<br>- 🎸 Music Producer & Guitarist<br><br>---
+# Hi 👋, I'm Kumar Anmol<br><h3 align="center">Full-Stack Developer | Python Developer | UI/UX Enthusiast | Musician 🎸</h3><br><br><p align="center"><br>Passionate about building modern web applications, learning new technologies, and solving real-world problems through software.<br></p><br>---## 🚀 About Me<br>- 🌱 Currently learning **React, Node.js, Express.js & MongoDB**<br>- 💻 Building real-world Full-Stack applications<br>- 🐍 Python Developer<br>- 🤝 Interested in Open Source<br>- 🎯 Goal: Become a Software Engineer and build impactful products<br>- 🎸 Music Producer & Guitarist<br><br>---
 
 
 ## 🌐 Socials:
