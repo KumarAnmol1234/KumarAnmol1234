@@ -258,7 +258,8 @@ Projects currently under active development.
 These repositories remain private until they reach production quality.
 
 ---
-
+<tr>
+  <td>
 ## 🎬 AniTube
 
 > 🔒 Private Development Project
@@ -287,6 +288,9 @@ Modern anime streaming platform inspired by YouTube.
 
 ---
 
+    
+  </td>
+</tr>
 # 💼 Commercial Projects
 
 Professional software developed for commercial use or private clients.
@@ -389,8 +393,6 @@ Repository: 🔒 Private
 
 > **Building production-ready software, contributing to open source, and delivering commercial solutions.**
 
-
-# 📊 GitHub Analytics
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=KumarAnmol1234&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)![](https://streak-stats.demolab.com/?user=KumarAnmol1234&theme=codeSTACKr&hide_border=false)<br/>
