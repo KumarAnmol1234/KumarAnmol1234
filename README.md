@@ -58,7 +58,6 @@ Dream       : Build Products Used By Millions
 ---
 
 # ⚡ Tech Stack
-# ⚡ Tech Stack
 
 ### 💻 Languages
 <p>
@@ -165,68 +164,185 @@ Dream       : Build Products Used By Millions
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </p>
-### Languages
 
-<p>
+# 🚀 Projects
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css"/>
+## 🌍 Open Source Projects
 
-</p>
+<table>
+<tr>
+<td width="50%">
 
-### Frontend
+### 🧮 Calculator App
+Modern glassmorphism calculator built with HTML, CSS & JavaScript.
 
-<p>
+**Highlights**
+- Responsive Design
+- Keyboard Support
+- Modern UI/UX
+- Clean Code Architecture
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+🛠️ Tech Stack:
+`HTML` `CSS` `JavaScript`
 
-</p>
+🔗 **Repository:** *(Add Link)*
 
-### Backend
+</td>
 
-<p>
+<td width="50%">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi"/>
+### 🎬 AniTube
+A modern YouTube-inspired video streaming interface.
 
-</p>
+**Highlights**
+- Responsive UI
+- Dynamic Components
+- Optimized Performance
 
-### Database
+🛠️ Tech Stack:
+`HTML` `CSS` `JavaScript`
 
-<p>
+🔗 **Repository:** *(Add Link)*
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql"/>
+</td>
+</tr>
 
-</p>
+<tr>
+<td>
 
-### DevOps & Cloud
+### 🌐 Portfolio Website
 
-<p>
+Personal portfolio showcasing projects, skills and achievements.
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,linux,gcp"/>
+**Highlights**
+- Responsive
+- Modern Design
+- GitHub Integration
 
-</p>
+🛠️ Tech Stack:
+`HTML`
+`CSS`
+`JavaScript`
 
-### Design & Tools
+🔗 **Repository:** *(Add Link)*
 
-<p>
+</td>
 
-<img src="https://skillicons.dev/icons?i=vscode,figma,ps,ai"/>
+<td>
 
-</p>
+### 🛒 E-Commerce Platform *(In Progress)*
+
+A production-ready Full Stack shopping platform.
+
+**Planned Features**
+- Authentication
+- Admin Dashboard
+- Payments
+- Product Management
+- Order Tracking
+
+🛠️ Tech Stack:
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+🚧 Currently Under Development
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 📈 Habit Tracker
+
+A productivity application to manage daily habits.
+
+🛠️ Tech Stack:
+`JavaScript`
+`Node.js`
+`MongoDB`
+
+🔗 **Repository:** *(Add Link)*
+
+</td>
+
+<td>
+
+### 🚀 More Projects Coming Soon...
+
+Always building something new.
+
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 💼 Commercial Projects
 
-| Project | Description |
-|----------|-------------|
-| 🧮 Calculator | Modern glassmorphism calculator |
-| 🛒 E-Commerce | Full Stack shopping platform |
-| 🌐 Portfolio | Personal Portfolio Website |
-| 🎬 AniTube | Anime Streaming Platform |
-| 🎓 Alpha Academy | Educational Website |
-| 📈 Habit Tracker | Productivity Application |
+## 🎓 Alpha Academy
+
+> **🔒 Private Client Project**
+
+Designed, developed and deployed a production-ready educational platform for a commercial client.
+
+### Responsibilities
+
+- 🎨 UI/UX Design
+- 💻 Full Stack Development
+- 🌐 Domain & Hosting Configuration
+- ⚡ Performance Optimization
+- 📱 Responsive Design
+- 🔧 Deployment & Maintenance
+- 🔒 Secure Configuration
+
+### Tech Stack
+
+`HTML`
+`CSS`
+`JavaScript`
+`Git`
+`GitHub`
+`Vercel`
+`Cloudflare`
+`GoDaddy`
+
+### Status
+
+```text
+████████████████████████████  Delivered
+```
+
+### Repository
+
+🔒 **Private Repository**
+
+> The source code is intentionally private to respect client confidentiality and protect proprietary work.
+
+🌐 **Live Website:** https://alphaacademy.site
 
 ---
+
+## 💼 Available For
+
+✅ Freelance Projects
+
+✅ Open Source Collaboration
+
+✅ Hackathons
+
+✅ Full Stack Development
+
+✅ Python Development
+
+✅ UI/UX Development
+
+---
+
+> **Building real-world software, contributing to open source, and delivering commercial solutions.**
 
 # 📊 GitHub Analytics
 
