@@ -315,7 +315,7 @@ Modern AI assistant inspired by tony stark.
 
 > This project will be open-sourced after the first stable release.
 
----
+
 </td>
 </tr>
 ---
