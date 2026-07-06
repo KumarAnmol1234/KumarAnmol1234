@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kumar+Anmol;Full-Stack+Developer;Python+Developer;Open+Source+Learner;Building+Awesome+Projects)](https://git.io/typing-svg)
-# Hi 👋, I'm Kumar Anmol<br><h3 align="center">Full-Stack Developer | Python Developer | UI/UX Enthusiast | Musician 🎸</h3><p align="center"><br>Passionate about building modern web applications, learning new technologies, and solving real-world problems through software.<br></p>---## 🚀 About Me<br>- 🌱 Currently learning **React, Node.js, Express.js & MongoDB**<br>- 💻 Building real-world Full-Stack applications<br>- 🐍 Python Developer<br>- 🤝 Interested in Open Source<br>- 🎯 Goal: Become a Software Engineer and build impactful products<br>- 🎸 Music Producer & Guitarist<br>---
+<br><h3 align="center">Full-Stack Developer | Python Developer | UI/UX Enthusiast | Musician 🎸</h3><p align="center"><br>Passionate about building modern web applications, learning new technologies, and solving real-world problems through software.<br></p>---## 🚀 About Me<br>- 🌱 Currently learning **React, Node.js, Express.js & MongoDB**<br>- 💻 Building real-world Full-Stack applications<br>- 🐍 Python Developer<br>- 🤝 Interested in Open Source<br>- 🎯 Goal: Become a Software Engineer and build impactful products<br>- 🎸 Music Producer & Guitarist<br>---
 
 
 ## 🌐 Socials:
