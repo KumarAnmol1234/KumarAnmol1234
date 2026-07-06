@@ -5,13 +5,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Python+Developer;Problem+Solver;Building+Real-World+Projects;Musician+%F0%9F%8E%B8;Always+Learning+New+Things"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Code%20By%20Logic%20Music%20By%20Heart&fontColor=00E5FF&fontSize=38&animation=fadeIn"/>
+<p align="right">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+</p>
 
 </div>
 
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
-</p>
 
 ---
 # 💫 About Me
