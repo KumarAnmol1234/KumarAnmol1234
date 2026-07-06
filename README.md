@@ -290,6 +290,34 @@ Modern anime streaming platform inspired by YouTube.
 
     
   </td>
+<td>
+  ## friday AI Assistant
+  > 🔒 Private Development Project
+
+Modern anime streaming platform inspired by YouTube.
+
+### Current Progress
+
+- ✅ UI/UX Completed
+- ✅ Responsive Design
+- 🚧 Backend Development
+- 🚧 Authentication
+- 🚧 Video Management
+- 🚧 Database Integration
+
+🛠 **Tech Stack**
+
+`React`
+`Node.js`
+`Express`
+`MongoDB`
+
+**Repository:** 🔒 Private
+
+> This project will be open-sourced after the first stable release.
+
+---
+</td>
 </tr>
 # 💼 Commercial Projects
 
