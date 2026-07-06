@@ -318,9 +318,9 @@ Modern AI assistant inspired by tony stark.
 ---
 </td>
 </tr>
+---
 
 # 💼commercial projects
-
 Professional software developed for commercial use or private clients.
 
 ---
