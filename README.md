@@ -163,8 +163,6 @@ Dream       : Build Products Used By Millions
 
 <img src="https://img.shields.io/badge/Adobe_InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
-
 </p>
 
 ---
